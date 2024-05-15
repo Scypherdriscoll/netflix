@@ -34,7 +34,7 @@ Data exploration: <br/>
 <br />
 <br />
 Answering data driven question:  <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gNJSnCm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
